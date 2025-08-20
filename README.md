@@ -1,2 +1,4 @@
-# Prueba-tecnica-de-Geraldin-Carriazo-analista-de-datos.
- Prueba Tecnica.
+# Prueba-tecnica
+# Geraldin-Carriazo
+# Analista-de-datos.
+
